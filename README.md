@@ -3,11 +3,6 @@ SourceInsight4汉化工程，SourceInsight4 i18n。
 
 
 
-链接：  
-https://wwys.lanzoub.com/b00g2rh4eh 密码:i8jr  
-https://cloud.189.cn/web/share?code=73aMRru6ZrEj 访问码：sqt2  
-https://www.123pan.com/s/ftltVv-mXj0d.html 提取码:1234  
-https://github.com/tuwulin365/SourceInsight_i18n 
 
 使用方法：  
 安装完成后，直接替换sourceinsight4.exe即可。  
@@ -19,5 +14,3 @@ https://github.com/tuwulin365/SourceInsight_i18n
 删除后原有的配置会清空，需要重新设置。  
 汉化补丁和网上一些美化主题文件有冲突，可以采用手动设置的方法，而不是直接导入主题配置。  
 
-建议与bug：  
-tuwulin365@126.com
